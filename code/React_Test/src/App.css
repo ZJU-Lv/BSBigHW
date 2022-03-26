@@ -1,0 +1,50 @@
+#root,.ant-layout{
+  height: 100%;
+}
+
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+  overflow: auto;
+}
+
+.app-title{
+  float: right;
+  width: calc(100% - 80px);
+}
+.app-title > span{
+  display: inline-block;
+  width: 19%;
+  text-align: center;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.app-title span label{
+  cursor: pointer;
+}
+.app-title span label:hover{
+  color: #1890ff;
+}

@@ -1,0 +1,70 @@
+.play{
+    display: inline-block;
+    position: absolute;
+    top:50%;left:30px;
+    height: 40px;width: 40px;
+    margin-top:-20px;
+    background-image: url(./img/play.png);
+    background-size: 100% 100%;
+}
+.layer{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100%;
+}
+.layer.index{
+    z-index: 9999;
+}
+.layer-mask{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+    filter: alpha(opacity=50);
+}
+.layer-content{
+    z-index: 1001;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 350px;
+    width: 640px;
+    margin-top: -175px;
+    margin-left: -320px;
+    background: #fff;
+}
+.layer-main{
+    z-index: 1001;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    height: 540px;
+    width: 70%;
+    margin-top: -270px;
+    background: #fff;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.edit-gronp{
+    margin-bottom: 15px;
+}
+.edit-label{
+    display: inline-block;
+    width: 70px;
+    padding-right: 10px;
+    line-height: 32px;
+    text-align: right;
+}
+.edit-input{
+    display: inline-block;
+    width: calc(100% - 70px);
+}

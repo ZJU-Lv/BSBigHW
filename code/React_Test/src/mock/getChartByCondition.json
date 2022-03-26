@@ -1,0 +1,115 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": [
+        {
+            "count": "0",
+            "fouce_date": "2020-11-01"
+        },
+        {
+            "count": "30",
+            "fouce_date": "2020-11-02"
+        },
+        {
+            "count": "10",
+            "fouce_date": "2020-11-03"
+        },
+        {
+            "count": "23",
+            "fouce_date": "2020-11-04"
+        },
+        {
+            "count": "50",
+            "fouce_date": "2020-11-05"
+        },
+        {
+            "count": "23",
+            "fouce_date": "2020-11-06"
+        },
+        {
+            "count": "23",
+            "fouce_date": "2020-11-07"
+        },
+        {
+            "count": "23",
+            "fouce_date": "2020-11-08"
+        },
+        {
+            "count": "6",
+            "fouce_date": "2020-11-09"
+        },
+        {
+            "count": "156",
+            "fouce_date": "2020-11-10"
+        },
+        {
+            "count": "12",
+            "fouce_date": "2020-11-11"
+        },
+        {
+            "count": "3",
+            "fouce_date": "2020-11-12"
+        },
+        {
+            "count": "46",
+            "fouce_date": "2020-11-13"
+        },
+        {
+            "count": "12",
+            "fouce_date": "2020-11-14"
+        },
+        {
+            "count": "46",
+            "fouce_date": "2020-11-15"
+        },
+        {
+            "count": "21",
+            "fouce_date": "2020-11-16"
+        },
+        {
+            "count": "24",
+            "fouce_date": "2020-11-17"
+        },
+        {
+            "count": "21",
+            "fouce_date": "2020-11-18"
+        },
+        {
+            "count": "72",
+            "fouce_date": "2020-11-19"
+        },
+        {
+            "count": "3",
+            "fouce_date": "2020-11-20"
+        },
+        {
+            "count": "112",
+            "fouce_date": "2020-11-21"
+        },
+        {
+            "count": "56",
+            "fouce_date": "2020-11-22"
+        },
+        {
+            "count": "43",
+            "fouce_date": "2020-11-23"
+        },
+        {
+            "count": "2",
+            "fouce_date": "2020-11-24"
+        },
+        {
+            "count": "19",
+            "fouce_date": "2020-11-25"
+        },
+        {
+            "count": "5",
+            "fouce_date": "2020-11-26"
+        },
+        {
+            "count": "0",
+            "fouce_date": "2020-11-27"
+        }
+    ],
+    "success": true
+}

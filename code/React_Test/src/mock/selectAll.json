@@ -1,0 +1,432 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": {
+        "page": {
+            "pageIndex": 1,
+            "count": 54,
+            "pageSize": 10
+        },
+        "list": [
+            {
+                "id": 600000010034,
+                "name": "qqqqq",
+                "user": {
+                    "uassId": 1000158,
+                    "uassName": "qqqqq"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": null,
+                "keywords": "qqqqq",
+                "introduce": "qqqqq",
+                "qrcodeurl": "",
+                "sendFlag": {
+                    "id": 779,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 778,
+                    "setStatus": 0,
+                    "setHz": 12
+                },
+                "menuFlag": {
+                    "id": 777,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 780,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 781,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010017,
+                "name": "测试渠道1",
+                "user": {
+                    "uassId": 1000151,
+                    "uassName": "qudao123"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 1031,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "测试渠道1",
+                "introduce": "测试渠道111",
+                "qrcodeurl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg",
+                "sendFlag": {
+                    "id": 690,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 689,
+                    "setStatus": 0,
+                    "setHz": 100
+                },
+                "menuFlag": {
+                    "id": 688,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 691,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 692,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "channel": "1"
+            },
+            {
+                "id": 600000010016,
+                "name": "二维码",
+                "user": {
+                    "uassId": 1000140,
+                    "uassName": "erweima"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": null,
+                "keywords": "111111111111111",
+                "introduce": "1111111111111111111",
+                "qrcodeurl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg",
+                "sendFlag": {
+                    "id": 685,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 684,
+                    "setStatus": 1,
+                    "setHz": 100
+                },
+                "menuFlag": {
+                    "id": 683,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 686,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 687,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010011,
+                "name": "2020521测试",
+                "user": {
+                    "uassId": 1000136,
+                    "uassName": "zhanglll"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 1027,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "测试",
+                "introduce": "2020521测试",
+                "qrcodeurl": null,
+                "sendFlag": {
+                    "id": 669,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 668,
+                    "setStatus": 0,
+                    "setHz": 10
+                },
+                "menuFlag": {
+                    "id": 667,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 670,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 671,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010010,
+                "name": "2020521自定义菜单测试",
+                "user": {
+                    "uassId": 1000135,
+                    "uassName": "zhangligyu"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 1025,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "测试",
+                "introduce": "2020521自定义菜单测试",
+                "qrcodeurl": null,
+                "sendFlag": {
+                    "id": 663,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 662,
+                    "setStatus": 0,
+                    "setHz": 10
+                },
+                "menuFlag": {
+                    "id": 661,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 664,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 665,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010008,
+                "name": "服务号名称测试",
+                "user": {
+                    "uassId": 1000133,
+                    "uassName": "000000"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": null,
+                "keywords": "服务号名称测试",
+                "introduce": "服务号名称测试",
+                "qrcodeurl": "",
+                "sendFlag": {
+                    "id": 650,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 649,
+                    "setStatus": 0,
+                    "setHz": 10
+                },
+                "menuFlag": {
+                    "id": 648,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 651,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 652,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010007,
+                "name": "xijian418",
+                "user": {
+                    "uassId": 1000132,
+                    "uassName": "123444"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 991,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "418",
+                "introduce": "xijian418",
+                "qrcodeurl": null,
+                "sendFlag": {
+                    "id": 645,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 644,
+                    "setStatus": 0,
+                    "setHz": 10
+                },
+                "menuFlag": {
+                    "id": 643,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 646,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 647,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010005,
+                "name": "测试0417",
+                "user": {
+                    "uassId": 1000153,
+                    "uassName": "测试0417"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 1023,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "测试",
+                "introduce": "测试0417测试0417服务号介绍",
+                "qrcodeurl": null,
+                "sendFlag": {
+                    "id": 635,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 634,
+                    "setStatus": 0,
+                    "setHz": 10
+                },
+                "menuFlag": {
+                    "id": 633,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 636,
+                    "setStatus": 0,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 637,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010003,
+                "name": "头像2222",
+                "user": {
+                    "uassId": 1000128,
+                    "uassName": "touxian1"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": null,
+                "keywords": "111",
+                "introduce": "111",
+                "qrcodeurl": "http://10.10.202.189:28082/group1/M00/00/6B/CgrKvV6ZOynPpGFxAAD0BHp8XSk366.jpg",
+                "sendFlag": {
+                    "id": 625,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 624,
+                    "setStatus": 1,
+                    "setHz": 1
+                },
+                "menuFlag": {
+                    "id": 623,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 626,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 627,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            },
+            {
+                "id": 600000010002,
+                "name": "头像111",
+                "user": {
+                    "uassId": 1000127,
+                    "uassName": "111222"
+                },
+                "portraitBig": null,
+                "isUploadPortrait": null,
+                "portrait": {
+                    "resId": 647,
+                    "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg"
+                },
+                "keywords": "222",
+                "introduce": "222",
+                "qrcodeurl": "http://10.10.202.189:28082/group1/M00/00/6B/CgrKvV6ZU0DAoY0gAAEP3g-YTvo959.jpg",
+                "sendFlag": {
+                    "id": 620,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "messageUpperLimit": {
+                    "id": 619,
+                    "setStatus": 0,
+                    "setHz": 1
+                },
+                "menuFlag": {
+                    "id": 618,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "titleFlag": {
+                    "id": 621,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "recommendFlag": {
+                    "id": 622,
+                    "setStatus": 1,
+                    "setHz": 0
+                },
+                "channel": "2"
+            }
+        ]
+    },
+    "success": true
+}

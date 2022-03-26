@@ -1,0 +1,21 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": {
+        "resId": 1044,
+        "resPath": "M00/00/73/CgrKvV9gg2my6U2-AAA5o5Z98hs01..jpg",
+        "resUrl": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1194131577,2954769920&fm=26&gp=0.jpg",
+        "resTitle": "20200720111729.jpg",
+        "resType": 1,
+        "resLength": 14,
+        "resVideoLength": 0,
+        "resName": "20200720111729.jpg",
+        "resDesc": null,
+        "resGroupName": "group1",
+        "resVideoPic": null,
+        "resSoundAmrPath": "0",
+        "resCreateTime": "2020-09-15 16:46:20",
+        "materialId": 1213
+    },
+    "success": true
+}

@@ -1,0 +1,57 @@
+.card-container{
+    border: 1px solid #DCDFE6;
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.12), 0 0 6px 0 rgba(0,0,0,.04);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.12), 0 0 6px 0 rgba(0,0,0,.04);
+}
+.tabpane{
+    min-height: 200px;
+    padding: 0 20px;
+}
+.ant-tabs-tab-btn{
+    min-width: 60px;
+    text-align: center;
+}
+.choose{
+    position: relative;
+    margin: 20px 20px 40px 20px;
+    border: 1px solid #d6d6d6;
+    height: 300px;
+    width: 300px;
+    /* display: flex; */
+    float: left;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.choose>a{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.choose>label{
+    display: inline-block;
+    position: absolute;
+    top: 0;left: 0;
+    height: 100%;
+    width: 100%;
+}
+.object{
+    height: 40px;
+    width: 600px;
+    border: 1px solid #d6d6d6;
+    line-height: 40px;
+    display: block;
+    margin: 20px 0;
+    padding-left: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

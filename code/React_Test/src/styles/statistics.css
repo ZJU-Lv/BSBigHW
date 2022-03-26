@@ -1,0 +1,39 @@
+div.list{
+    height: auto;
+    width: 100%;
+    list-style: none;
+    overflow: auto;
+    margin: 20px 0;
+}
+div.item{
+    width: 22%;
+    float: left;
+    height: 185px;
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    margin: 0 10px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+div.item h3{
+    color: #999;
+}
+.icon_up,
+.icon_down,
+.icon_balance {
+    display: inline-block;
+    position: relative;
+    top: -2px;
+    width: 10px;
+    height: 9px;
+    margin:0 8px;
+    background: transparent url(./img/arrow-spr49d02c.png) no-repeat 0 0;
+    vertical-align: middle;
+}
+.icon_down {
+    background-position: -10px 0;
+}
+.icon_balance {
+    background-position: -20px 0;
+}

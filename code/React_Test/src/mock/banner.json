@@ -1,0 +1,48 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": {
+        "id": 600000000070,
+        "name": "keepc2",
+        "user": {
+            "uassId": 1000061,
+            "uassName": "keepc2"
+        },
+        "portraitBig": null,
+        "isUploadPortrait": null,
+        "portrait": {
+            "resId": 1029,
+            "resUrl": "http://10.10.202.189:28082/group1/M00/00/72/CgrKvV7jOq7IkohTAABzdM9YQuQ803.jpg"
+        },
+        "keywords": "111222222",
+        "introduce": "222",
+        "qrcodeurl": "http://10.10.202.189:28082/group1/M00/00/72/CgrKvV7jOrDtlbraAAEWBvRvNy0663.jpg",
+        "sendFlag": {
+            "id": 525,
+            "setStatus": 1,
+            "setHz": 0
+        },
+        "messageUpperLimit": {
+            "id": 524,
+            "setStatus": 0,
+            "setHz": 200
+        },
+        "menuFlag": {
+            "id": 523,
+            "setStatus": 1,
+            "setHz": 0
+        },
+        "titleFlag": {
+            "id": 526,
+            "setStatus": 1,
+            "setHz": 0
+        },
+        "recommendFlag": {
+            "id": 527,
+            "setStatus": 1,
+            "setHz": 0
+        },
+        "channel": "2"
+    },
+    "success": true
+}

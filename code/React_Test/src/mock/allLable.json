@@ -1,0 +1,890 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": {
+        "allCount": 19,
+        "lables": [
+            {
+                "id": 647,
+                "lableName": "性别",
+                "lableId": "_000036",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 648,
+                        "lableName": null,
+                        "lableId": "_000036_F",
+                        "nodeValue": "F",
+                        "nodeName": "女",
+                        "parentId": "_000036",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 649,
+                        "lableName": null,
+                        "lableId": "_000036_M",
+                        "nodeValue": "M",
+                        "nodeName": "男",
+                        "parentId": "_000036",
+                        "count": 1,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 650,
+                "lableName": "年龄区间",
+                "lableId": "_000026",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 651,
+                        "lableName": null,
+                        "lableId": "_000026_0",
+                        "nodeValue": "0",
+                        "nodeName": "25以下",
+                        "parentId": "_000026",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 652,
+                        "lableName": null,
+                        "lableId": "_000026_1",
+                        "nodeValue": "1",
+                        "nodeName": "25-35",
+                        "parentId": "_000026",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 653,
+                        "lableName": null,
+                        "lableId": "_000026_2",
+                        "nodeValue": "2",
+                        "nodeName": "35-45",
+                        "parentId": "_000026",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 654,
+                        "lableName": null,
+                        "lableId": "_000026_3",
+                        "nodeValue": "3",
+                        "nodeName": "45-55",
+                        "parentId": "_000026",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 655,
+                        "lableName": null,
+                        "lableId": "_000026_4",
+                        "nodeValue": "4",
+                        "nodeName": "55以上",
+                        "parentId": "_000026",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 656,
+                "lableName": "客户时点AUM值",
+                "lableId": "_000209",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 657,
+                        "lableName": null,
+                        "lableId": "_000209_0",
+                        "nodeValue": "0",
+                        "nodeName": "[0,5w",
+                        "parentId": "_000209",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 658,
+                        "lableName": null,
+                        "lableId": "_000209_1",
+                        "nodeValue": "1",
+                        "nodeName": "5w,30w",
+                        "parentId": "_000209",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 659,
+                        "lableName": null,
+                        "lableId": "_000209_2",
+                        "nodeValue": "2",
+                        "nodeName": "30w,50w",
+                        "parentId": "_000209",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 660,
+                        "lableName": null,
+                        "lableId": "_000209_3",
+                        "nodeValue": "3",
+                        "nodeName": "50w,300w",
+                        "parentId": "_000209",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 661,
+                        "lableName": null,
+                        "lableId": "_000209_4",
+                        "nodeValue": "4",
+                        "nodeName": "300w,600w",
+                        "parentId": "_000209",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 662,
+                        "lableName": null,
+                        "lableId": "_000209_5",
+                        "nodeValue": "5",
+                        "nodeName": "600w,无穷)",
+                        "parentId": "_000209",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 663,
+                "lableName": "年日均AUM值",
+                "lableId": "_000204",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 664,
+                        "lableName": null,
+                        "lableId": "_000204_0",
+                        "nodeValue": "0",
+                        "nodeName": "[0,5w",
+                        "parentId": "_000204",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 665,
+                        "lableName": null,
+                        "lableId": "_000204_1",
+                        "nodeValue": "1",
+                        "nodeName": "5w,30w",
+                        "parentId": "_000204",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 666,
+                        "lableName": null,
+                        "lableId": "_000204_2",
+                        "nodeValue": "2",
+                        "nodeName": "30w,50w",
+                        "parentId": "_000204",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 667,
+                        "lableName": null,
+                        "lableId": "_000204_3",
+                        "nodeValue": "3",
+                        "nodeName": "50w,300w",
+                        "parentId": "_000204",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 668,
+                        "lableName": null,
+                        "lableId": "_000204_4",
+                        "nodeValue": "4",
+                        "nodeName": "300w,600w",
+                        "parentId": "_000204",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 669,
+                        "lableName": null,
+                        "lableId": "_000204_5",
+                        "nodeValue": "5",
+                        "nodeName": "600w,无穷)",
+                        "parentId": "_000204",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 670,
+                "lableName": "客户月均AUM值",
+                "lableId": "_000222",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 671,
+                        "lableName": null,
+                        "lableId": "_000222_0",
+                        "nodeValue": "0",
+                        "nodeName": "[0,5w",
+                        "parentId": "_000222",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 672,
+                        "lableName": null,
+                        "lableId": "_000222_1",
+                        "nodeValue": "1",
+                        "nodeName": "5w,30w",
+                        "parentId": "_000222",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 673,
+                        "lableName": null,
+                        "lableId": "_000222_2",
+                        "nodeValue": "2",
+                        "nodeName": "30w,50w",
+                        "parentId": "_000222",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 674,
+                        "lableName": null,
+                        "lableId": "_000222_3",
+                        "nodeValue": "3",
+                        "nodeName": "50w,300w",
+                        "parentId": "_000222",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 675,
+                        "lableName": null,
+                        "lableId": "_000222_4",
+                        "nodeValue": "4",
+                        "nodeName": "300w,600w",
+                        "parentId": "_000222",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 676,
+                        "lableName": null,
+                        "lableId": "_000222_5",
+                        "nodeValue": "5",
+                        "nodeName": "600w,无穷)",
+                        "parentId": "_000222",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 677,
+                "lableName": "地区代码",
+                "lableId": "_000028",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 678,
+                        "lableName": null,
+                        "lableId": "_000028_010741100",
+                        "nodeValue": "010741100",
+                        "nodeName": "建亚",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 679,
+                        "lableName": null,
+                        "lableId": "_000028_110",
+                        "nodeValue": "110",
+                        "nodeName": "北京",
+                        "parentId": "_000028",
+                        "count": 2,
+                        "nodes": null
+                    },
+                    {
+                        "id": 680,
+                        "lableName": null,
+                        "lableId": "_000028_120",
+                        "nodeValue": "120",
+                        "nodeName": "天津",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 681,
+                        "lableName": null,
+                        "lableId": "_000028_130",
+                        "nodeValue": "130",
+                        "nodeName": "河北",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 682,
+                        "lableName": null,
+                        "lableId": "_000028_140",
+                        "nodeValue": "140",
+                        "nodeName": "山西",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 683,
+                        "lableName": null,
+                        "lableId": "_000028_150",
+                        "nodeValue": "150",
+                        "nodeName": "内蒙",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 684,
+                        "lableName": null,
+                        "lableId": "_000028_210",
+                        "nodeValue": "210",
+                        "nodeName": "辽宁",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 685,
+                        "lableName": null,
+                        "lableId": "_000028_212",
+                        "nodeValue": "212",
+                        "nodeName": "大连",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 686,
+                        "lableName": null,
+                        "lableId": "_000028_220",
+                        "nodeValue": "220",
+                        "nodeName": "吉林",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 687,
+                        "lableName": null,
+                        "lableId": "_000028_230",
+                        "nodeValue": "230",
+                        "nodeName": "黑龙江",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 688,
+                        "lableName": null,
+                        "lableId": "_000028_310",
+                        "nodeValue": "310",
+                        "nodeName": "上海",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 689,
+                        "lableName": null,
+                        "lableId": "_000028_320",
+                        "nodeValue": "320",
+                        "nodeName": "江苏",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 690,
+                        "lableName": null,
+                        "lableId": "_000028_322",
+                        "nodeValue": "322",
+                        "nodeName": "浙江",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 691,
+                        "lableName": null,
+                        "lableId": "_000028_330",
+                        "nodeValue": "330",
+                        "nodeName": "宁波",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 692,
+                        "lableName": null,
+                        "lableId": "_000028_331",
+                        "nodeValue": "331",
+                        "nodeName": "安徽",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 693,
+                        "lableName": null,
+                        "lableId": "_000028_340",
+                        "nodeValue": "340",
+                        "nodeName": "福建",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 694,
+                        "lableName": null,
+                        "lableId": "_000028_350",
+                        "nodeValue": "350",
+                        "nodeName": "厦门",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 695,
+                        "lableName": null,
+                        "lableId": "_000028_351",
+                        "nodeValue": "351",
+                        "nodeName": "江西",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 696,
+                        "lableName": null,
+                        "lableId": "_000028_360",
+                        "nodeValue": "360",
+                        "nodeName": "山东",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 697,
+                        "lableName": null,
+                        "lableId": "_000028_370",
+                        "nodeValue": "370",
+                        "nodeName": "青岛",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 698,
+                        "lableName": null,
+                        "lableId": "_000028_371",
+                        "nodeValue": "371",
+                        "nodeName": "河南",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 699,
+                        "lableName": null,
+                        "lableId": "_000028_410",
+                        "nodeValue": "410",
+                        "nodeName": "湖北",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 700,
+                        "lableName": null,
+                        "lableId": "_000028_420",
+                        "nodeValue": "420",
+                        "nodeName": "湖南",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 701,
+                        "lableName": null,
+                        "lableId": "_000028_430",
+                        "nodeValue": "430",
+                        "nodeName": "广东",
+                        "parentId": "_000028",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 702,
+                        "lableName": null,
+                        "lableId": "_000028_440",
+                        "nodeValue": "440",
+                        "nodeName": "深圳",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 703,
+                        "lableName": null,
+                        "lableId": "_000028_442",
+                        "nodeValue": "442",
+                        "nodeName": "广西",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 704,
+                        "lableName": null,
+                        "lableId": "_000028_450",
+                        "nodeValue": "450",
+                        "nodeName": "海南",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 705,
+                        "lableName": null,
+                        "lableId": "_000028_460",
+                        "nodeValue": "460",
+                        "nodeName": "重庆",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 706,
+                        "lableName": null,
+                        "lableId": "_000028_500",
+                        "nodeValue": "500",
+                        "nodeName": "四川",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 707,
+                        "lableName": null,
+                        "lableId": "_000028_510",
+                        "nodeValue": "510",
+                        "nodeName": "贵州",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 708,
+                        "lableName": null,
+                        "lableId": "_000028_520",
+                        "nodeValue": "520",
+                        "nodeName": "云南",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 709,
+                        "lableName": null,
+                        "lableId": "_000028_530",
+                        "nodeValue": "530",
+                        "nodeName": "西藏",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 710,
+                        "lableName": null,
+                        "lableId": "_000028_540",
+                        "nodeValue": "540",
+                        "nodeName": "陕西",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 711,
+                        "lableName": null,
+                        "lableId": "_000028_610",
+                        "nodeValue": "610",
+                        "nodeName": "甘肃",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 712,
+                        "lableName": null,
+                        "lableId": "_000028_620",
+                        "nodeValue": "620",
+                        "nodeName": "青海",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 713,
+                        "lableName": null,
+                        "lableId": "_000028_630",
+                        "nodeValue": "630",
+                        "nodeName": "宁夏",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 714,
+                        "lableName": null,
+                        "lableId": "_000028_640",
+                        "nodeValue": "640",
+                        "nodeName": "新疆",
+                        "parentId": "_000028",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 715,
+                        "lableName": null,
+                        "lableId": "_000028_650",
+                        "nodeValue": "650",
+                        "nodeName": "澳门",
+                        "parentId": "_000028",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 1613,
+                "lableName": "本年度手机银行活跃客户",
+                "lableId": "_000011",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 1614,
+                        "lableName": null,
+                        "lableId": "_000011_0",
+                        "nodeValue": "0",
+                        "nodeName": "否",
+                        "parentId": "_000011",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1615,
+                        "lableName": null,
+                        "lableId": "_000011_1",
+                        "nodeValue": "1",
+                        "nodeName": "是",
+                        "parentId": "_000011",
+                        "count": 2,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 1616,
+                "lableName": "是否代发客户",
+                "lableId": "_000599",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 1617,
+                        "lableName": null,
+                        "lableId": "_000599_0",
+                        "nodeValue": "0",
+                        "nodeName": "否",
+                        "parentId": "_000599",
+                        "count": 2,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1618,
+                        "lableName": null,
+                        "lableId": "_000599_1",
+                        "nodeValue": "1",
+                        "nodeName": "是",
+                        "parentId": "_000599",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 1619,
+                "lableName": "是否信用卡客户",
+                "lableId": "_000008",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 1620,
+                        "lableName": null,
+                        "lableId": "_000008_0",
+                        "nodeValue": "0",
+                        "nodeName": "否",
+                        "parentId": "_000008",
+                        "count": 2,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1621,
+                        "lableName": null,
+                        "lableId": "_000008_1",
+                        "nodeValue": "1",
+                        "nodeName": "是",
+                        "parentId": "_000008",
+                        "count": 0,
+                        "nodes": null
+                    }
+                ]
+            },
+            {
+                "id": 1629,
+                "lableName": "客户星级",
+                "lableId": "_000678",
+                "nodeValue": null,
+                "nodeName": null,
+                "parentId": null,
+                "count": null,
+                "nodes": [
+                    {
+                        "id": 1630,
+                        "lableName": null,
+                        "lableId": "_000678_1",
+                        "nodeValue": "1",
+                        "nodeName": "0星级",
+                        "parentId": "_000678",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1631,
+                        "lableName": null,
+                        "lableId": "_000678_2",
+                        "nodeValue": "2",
+                        "nodeName": "1星级",
+                        "parentId": "_000678",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1632,
+                        "lableName": null,
+                        "lableId": "_000678_3",
+                        "nodeValue": "3",
+                        "nodeName": "2星级",
+                        "parentId": "_000678",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1633,
+                        "lableName": null,
+                        "lableId": "_000678_4",
+                        "nodeValue": "4",
+                        "nodeName": "3星级",
+                        "parentId": "_000678",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1634,
+                        "lableName": null,
+                        "lableId": "_000678_5",
+                        "nodeValue": "5",
+                        "nodeName": "4星级",
+                        "parentId": "_000678",
+                        "count": 1,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1635,
+                        "lableName": null,
+                        "lableId": "_000678_6",
+                        "nodeValue": "6",
+                        "nodeName": "5星级",
+                        "parentId": "_000678",
+                        "count": 0,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1636,
+                        "lableName": null,
+                        "lableId": "_000678_7",
+                        "nodeValue": "7",
+                        "nodeName": "6星级",
+                        "parentId": "_000678",
+                        "count": null,
+                        "nodes": null
+                    },
+                    {
+                        "id": 1637,
+                        "lableName": null,
+                        "lableId": "_000678_8",
+                        "nodeValue": "8",
+                        "nodeName": "7星级",
+                        "parentId": "_000678",
+                        "count": null,
+                        "nodes": null
+                    }
+                ]
+            }
+        ]
+    },
+    "success": true
+}

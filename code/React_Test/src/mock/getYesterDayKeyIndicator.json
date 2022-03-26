@@ -1,0 +1,27 @@
+{
+    "mesg": "请求成功",
+    "code": 200,
+    "data": {
+        "id": null,
+        "publicId": 0,
+        "fouceDate": null,
+        "fouceCount": 15,
+        "fouceDailyCount": 13,
+        "fouceWeekCount": 30,
+        "fouceMonthlyCount": 53,
+        "unfouceCount": 33,
+        "unfouceDailyCount": 32,
+        "unfouceWeekCount": 12,
+        "unfouceMonthlyCount": 56,
+        "fouceUnique": 12,
+        "fouceDailyUnique": 20,
+        "fouceWeekUnique": 62,
+        "fouceMonthlyUnique": 80,
+        "unfouceUnique": 40,
+        "totalCount": 120,
+        "totalDailyCount": 36,
+        "totalWeekCount": 45,
+        "totalMonthlyCount": 72
+    },
+    "success": true
+}

@@ -1,0 +1,80 @@
+.ant-card.add .ant-card-body{
+    padding: 0;
+}
+.colLeft{
+    height: auto;
+    padding: 20px 20px 50px 20px;
+    background: #f0f2f5;
+    overflow: auto;
+}
+
+.colRight{
+    height: auto;
+    padding: 20px 0 0 20px;
+    overflow: auto;
+}
+.titleRight{
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 15px;
+}
+.fRight{
+    float: right;
+}
+.title{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.images{
+    position: relative;
+    height: auto;
+    min-height: 150px;
+    border: 1px solid #8c939d;
+    box-sizing: border-box;
+}
+.images.pd{
+    min-height: 190px;
+    padding-bottom: 40px;
+}
+.images .img{
+    height: 150px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border: none;
+}
+.images .imgTitle{
+    position: absolute;
+    top: 120px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    padding: 0 5%;
+    color: #fff;
+    background: rgba(0,0,0,.5);
+}
+span.tox-tbtn__select-label{
+    width: 3em;
+}
+.box{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 8px 0;
+    text-align: center;
+}
+.adds{
+    height: 50px;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #8c939d;
+}
+
+.ant-layout >>> .tox .tox-tbtn--bespoke .tox-tbtn__select-label{
+    width: 3em;
+}
+

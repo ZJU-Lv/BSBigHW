@@ -1,0 +1,36 @@
+.search{
+  width: 320px;
+  margin-bottom: 20px;
+}
+.all {
+  position: relative;
+  padding: 10px;
+  border-top: 1px solid grey;
+  border-left: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+.group-send{
+  z-index: 10;
+  position: absolute;
+  right:10px;bottom:-43px;
+}
+.right{
+  padding-bottom: 15px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+.right-all{
+  padding: 10px;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  background-color: #eaeaea;
+  box-sizing: border-box;
+}
+.ant-table-pagination.ant-pagination{
+  margin-right:15px;
+}
+
+.tag{
+  margin: 15px 0 0 20px;
+}
